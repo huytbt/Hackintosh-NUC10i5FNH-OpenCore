@@ -16,17 +16,17 @@
 * 5K display
 * [x] Ethernet \(both ports\)
 * [x] Audio \(Headphone Jack Combo\)
-* [] Microphone \(not available\)
+* [ ] Microphone \(not available\)
 * HDMI/DP audio
 * [x] USB A ports
 * [x] USB C ports
-* [] Thunderbolt 3 ports \(including hotplug\)
-* [] Thunderbolt IP \(XDomain, internet sharing\)
-* [] SD card slot
+* [ ] Thunderbolt 3 ports \(including hotplug\)
+* [ ] Thunderbolt IP \(XDomain, internet sharing\)
+* [ ] SD card slot
 * [x] NVMe/SATA SSD
 * [x] CPU power management
 * [x] Sleep/Resume
-* [] Wifi/BT \(using Apple Wifi card\)
+* [ ] Wifi/BT \(using Apple Wifi card\)
 * [x] Secure Boot \(with High Security\)
 
 ## Working Software
@@ -35,7 +35,7 @@
 * [x] iMessage, iCloud, Siri, iTunes, other services
 * [x] FileVault2, APFS, Time Machine, SSD TRIM
 * [x] Metal, GPU accelerated applications, hardware video encoder/decoder
-* [] Handoff, Continuity, Universal Clipboard, Apple Watch unlock \(using Apple Wifi card\)
+* [ ] Handoff, Continuity, Universal Clipboard, Apple Watch unlock \(using Apple Wifi card\)
 * [x] SIP, Gate Keeper, all OSX security features
 
 ## OS Version Tested
