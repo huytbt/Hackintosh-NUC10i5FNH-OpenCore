@@ -8,17 +8,38 @@
 ## Attention
 - Please generate SMBios and add to conflig.plist (Using https://github.com/corpnewt/GenSMBIOS)
 
-## Feature Work Well
-- Sleep and Wake up
-- Facetime & iMessage
-- Native HD Audio
+## Working Hardware
+
+* [x] GPU acceleration
+* [x] Video encoder/decoder hardware
+* Multiple displays \(six 4K displays max\)
+* 5K display
+* [x] Ethernet \(both ports\)
+* [x] Audio \(Headphone Jack Combo\)
+* [] Microphone \(not available\)
+* HDMI/DP audio
+* [x] USB A ports
+* [x] USB C ports
+* [] Thunderbolt 3 ports \(including hotplug\)
+* [] Thunderbolt IP \(XDomain, internet sharing\)
+* [] SD card slot
+* [x] NVMe/SATA SSD
+* [x] CPU power management
+* [x] Sleep/Resume
+* [] Wifi/BT \(using Apple Wifi card\)
+* [x] Secure Boot \(with High Security\)
+
+## Working Software
+
+* [x] Installer, App Store, app updates, OS updates
+* [x] iMessage, iCloud, Siri, iTunes, other services
+* [x] FileVault2, APFS, Time Machine, SSD TRIM
+* [x] Metal, GPU accelerated applications, hardware video encoder/decoder
+* [] Handoff, Continuity, Universal Clipboard, Apple Watch unlock \(using Apple Wifi card\)
+* [x] SIP, Gate Keeper, all OSX security features
 
 ## OS Version Tested
 - macOS Catalina 10.15.7 (19H2)
-
-## Issues
-- Wifi not stable
-- Bluetooth not work
 
 ## Credits
 - [Apple](https://www.apple.com) for macOS  
