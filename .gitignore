@@ -2,3 +2,4 @@ EFI/APPLE
 ._*
 .fseventsd/
 .Spotlight*/
+.DS_Store
