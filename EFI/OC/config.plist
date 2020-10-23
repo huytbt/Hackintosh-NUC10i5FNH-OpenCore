@@ -16,17 +16,17 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>SSDT-PLUG-DRTNIA.aml</string>
+				<string>SSDT-EC-USBX-XSTA.aml</string>
 				<key>Path</key>
-				<string>SSDT-PLUG-DRTNIA.aml</string>
+				<string>SSDT-EC-USBX-XSTA.aml</string>
 				<key>Enabled</key>
-				<false/>
+				<true/>
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>SSDT-EC-USBX-XSTA.aml</string>
+				<string>SSDT-PLUG.aml</string>
 				<key>Path</key>
-				<string>SSDT-EC-USBX-XSTA.aml</string>
+				<string>SSDT-PLUG.aml</string>
 				<key>Enabled</key>
 				<true/>
 			</dict>
