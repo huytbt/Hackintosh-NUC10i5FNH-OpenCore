@@ -22,7 +22,7 @@
 	<string>1.0</string>
 	<key>IOKitPersonalities</key>
 	<dict>
-		<key>iMac19,1-XHC</key>
+		<key>Macmini8,1-XHC</key>
 		<dict>
 			<key>CFBundleIdentifier</key>
 			<string>com.apple.driver.AppleUSBMergeNub</string>
@@ -38,7 +38,7 @@
 				<true/>
 				<key>port-count</key>
 				<data>
-				DwAAAA==
+				EAAAAA==
 				</data>
 				<key>ports</key>
 				<dict>
@@ -69,13 +69,22 @@
 						AwAAAA==
 						</data>
 					</dict>
-					<key>HS10</key>
+					<key>HS04</key>
 					<dict>
 						<key>UsbConnector</key>
-						<integer>255</integer>
+						<integer>9</integer>
 						<key>port</key>
 						<data>
-						CgAAAA==
+						BAAAAA==
+						</data>
+					</dict>
+					<key>HS07</key>
+					<dict>
+						<key>UsbConnector</key>
+						<integer>9</integer>
+						<key>port</key>
+						<data>
+						BwAAAA==
 						</data>
 					</dict>
 					<key>SS01</key>
@@ -105,10 +114,19 @@
 						DwAAAA==
 						</data>
 					</dict>
+					<key>SS04</key>
+					<dict>
+						<key>UsbConnector</key>
+						<integer>3</integer>
+						<key>port</key>
+						<data>
+						EAAAAA==
+						</data>
+					</dict>
 				</dict>
 			</dict>
 			<key>model</key>
-			<string>iMac19,1</string>
+			<string>Macmini8,1</string>
 		</dict>
 	</dict>
 	<key>OSBundleRequired</key>
