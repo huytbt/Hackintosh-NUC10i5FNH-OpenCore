@@ -54,6 +54,22 @@
 				<key>Enabled</key>
 				<true/>
 			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>SSDT-DTPG.aml</string>
+				<key>Path</key>
+				<string>SSDT-DTPG.aml</string>
+				<key>Enabled</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>SSDT-TB3HP.aml</string>
+				<key>Path</key>
+				<string>SSDT-TB3HP.aml</string>
+				<key>Enabled</key>
+				<true/>
+			</dict>
 		</array>
 		<key>Delete</key>
 		<array>
@@ -291,6 +307,8 @@
 				<string>USB controller</string>
 				<key>model</key>
 				<string>Comet Lake PCH-LP USB 3.1 xHCI Host Controller</string>
+				<key>acpi-wake-type</key>
+				<data>AQ==</data>
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x14,0x2)</key>
 			<dict>
@@ -583,6 +601,22 @@
 				<string></string>
 				<key>BundlePath</key>
 				<string>CPUFriendDataProvider.kext</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string></string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+				<key>Enabled</key>
+				<false/>
+				<key>MinKernel</key>
+				<string></string>
+				<key>ExecutablePath</key>
+				<string>Contents/MacOS/ThunderboltReset</string>
+				<key>BundlePath</key>
+				<string>ThunderboltReset.kext</string>
 			</dict>
 		</array>
 		<key>Block</key>
