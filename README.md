@@ -12,12 +12,10 @@
 
 * [x] GPU acceleration
 * [x] Video encoder/decoder hardware
-* Multiple displays \(six 4K displays max\)
-* 5K display
+* [x] Multiple displays
 * [x] Ethernet \(both ports\)
 * [x] Audio \(Headphone Jack Combo\)
-* [ ] Microphone \(not available\)
-* HDMI/DP audio
+* [ ] HDMI/DP audio
 * [x] USB A ports
 * [x] USB C ports
 * [ ] Thunderbolt 3 ports \(including hotplug\)
@@ -26,7 +24,7 @@
 * [x] NVMe/SATA SSD
 * [x] CPU power management
 * [x] Sleep/Resume
-* [ ] Wifi/BT \(using Apple Wifi card\)
+* [x] Wifi/BT \(using Apple Wifi card\)
 * [x] Secure Boot \(with High Security\)
 
 ## Working Software
@@ -35,7 +33,7 @@
 * [x] iMessage, iCloud, Siri, iTunes, other services
 * [x] FileVault2, APFS, Time Machine, SSD TRIM
 * [x] Metal, GPU accelerated applications, hardware video encoder/decoder
-* [ ] Handoff, Continuity, Universal Clipboard, Apple Watch unlock \(using Apple Wifi card\)
+* [x] Handoff, Continuity, Universal Clipboard, Apple Watch unlock \(using Apple Wifi card\)
 * [x] SIP, Gate Keeper, all OSX security features
 
 ## OS Version Tested
