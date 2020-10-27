@@ -84,12 +84,6 @@
 		</array>
 		<key>Patch</key>
 		<array>
-				<key>Limit</key>
-				<integer>0</integer>
-				<data></data>
-				<key>Skip</key>
-				<key>TableSignature</key>
-				<data>RFNEVA==</data>
 			<dict>
 				<key>Comment</key>
 				<string>_PTS to ZPTS (Fix FixShutdown)</string>
@@ -264,13 +258,15 @@
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
 				<key>AAPL,ig-platform-id</key>
-				<data>BwCbPg==</data>
+				<data>CQClPg==</data>
 				<key>framebuffer-patch-enable</key>
 				<data>AQAAAA==</data>
 				<key>framebuffer-stolenmem</key>
 				<data>AAAwAQ==</data>
+				<key>framebuffer-fbmem</key>
+				<data>AACQAA==</data>
 				<key>device-id</key>
-				<data>kj4AAA==</data>
+				<data>mz4AAA==</data>
 				<key>AAPL,slot-name</key>
 				<string>Internal@0,2,0</string>
 				<key>device_type</key>
@@ -1058,7 +1054,7 @@
 			<key>IgnoreInvalidFlexRatio</key>
 			<false/>
 			<key>ReleaseUsbOwnership</key>
-			<false/>
+			<true/>
 			<key>RequestBootVarRouting</key>
 			<true/>
 			<key>TscSyncTimeout</key>
