@@ -24,14 +24,6 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>I2C Trackpad</string>
-				<key>Path</key>
-				<string>SSDT-GPI0.aml</string>
-				<key>Enabled</key>
-				<true/>
-			</dict>
-			<dict>
-				<key>Comment</key>
 				<string>System Clocks</string>
 				<key>Enabled</key>
 				<true/>
