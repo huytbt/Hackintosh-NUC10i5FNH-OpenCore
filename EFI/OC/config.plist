@@ -40,7 +40,7 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>FixShutdown-USB-SSDT.aml</string>
+				<string>Fixing Shutdown/Restart</string>
 				<key>Path</key>
 				<string>FixShutdown-USB-SSDT.aml</string>
 				<key>Enabled</key>
@@ -48,7 +48,7 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>HPET _CRS (Needs _CRS to XCRS Rename)</string>
+				<string>IRQ Conflicts (Needs _CRS to XCRS Rename)</string>
 				<key>Enabled</key>
 				<true/>
 				<key>Path</key>
@@ -56,25 +56,9 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>SSDT-USB-Reset.aml</string>
+				<string>Reset USB to Mapping USB</string>
 				<key>Path</key>
 				<string>SSDT-USB-Reset.aml</string>
-				<key>Enabled</key>
-				<true/>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>SSDT-DTPG.aml</string>
-				<key>Path</key>
-				<string>SSDT-DTPG.aml</string>
-				<key>Enabled</key>
-				<true/>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>SSDT-TB3HP.aml</string>
-				<key>Path</key>
-				<string>SSDT-TB3HP.aml</string>
 				<key>Enabled</key>
 				<true/>
 			</dict>
@@ -112,7 +96,7 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>HPET _CRS to XCRS Rename</string>
+				<string>HPET _CRS to XCRS Rename (IRQ Conflicts)</string>
 				<key>Count</key>
 				<integer>0</integer>
 				<key>Enabled</key>
@@ -138,7 +122,7 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>RTC IRQ 8 Patch</string>
+				<string>RTC IRQ 8 Patch (IRQ Conflicts)</string>
 				<key>Count</key>
 				<integer>0</integer>
 				<key>Enabled</key>
@@ -164,7 +148,7 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>TIMR IRQ 0 Patch</string>
+				<string>TIMR IRQ 0 Patch (IRQ Conflicts)</string>
 				<key>Count</key>
 				<integer>0</integer>
 				<key>Enabled</key>
@@ -338,9 +322,9 @@
 				<key>AAPL,slot-name</key>
 				<string>Internal@0,29,0/0,0</string>
 				<key>device_type</key>
-				<string>SD Host controller</string>
+				<string>Network controller</string>
 				<key>model</key>
-				<string>Genesys Logic SD Carder</string>
+				<string>BCM4360 802.11ac Wireless Network Adapter</string>
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x1F,0x3)</key>
 			<dict>
@@ -508,38 +492,6 @@
 				<key>PlistPath</key>
 				<string>Contents/Info.plist</string>
 				<key>Enabled</key>
-				<false/>
-				<key>MinKernel</key>
-				<string></string>
-				<key>ExecutablePath</key>
-				<string>Contents/MacOS/AirportItlwm</string>
-				<key>BundlePath</key>
-				<string>AirportItlwm.kext</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string></string>
-				<key>MaxKernel</key>
-				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
-				<key>Enabled</key>
-				<false/>
-				<key>MinKernel</key>
-				<string></string>
-				<key>ExecutablePath</key>
-				<string>Contents/MacOS/IntelBluetoothFirmware</string>
-				<key>BundlePath</key>
-				<string>IntelBluetoothFirmware.kext</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string></string>
-				<key>MaxKernel</key>
-				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
-				<key>Enabled</key>
 				<true/>
 				<key>MinKernel</key>
 				<string></string>
@@ -579,22 +531,6 @@
 				<string></string>
 				<key>BundlePath</key>
 				<string>CPUFriendDataProvider.kext</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string></string>
-				<key>MaxKernel</key>
-				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
-				<key>Enabled</key>
-				<false/>
-				<key>MinKernel</key>
-				<string></string>
-				<key>ExecutablePath</key>
-				<string>Contents/MacOS/ThunderboltReset</string>
-				<key>BundlePath</key>
-				<string>ThunderboltReset.kext</string>
 			</dict>
 		</array>
 		<key>Block</key>
