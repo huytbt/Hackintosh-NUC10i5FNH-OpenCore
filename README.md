@@ -15,7 +15,7 @@
 * [x] Multiple displays
 * [x] Ethernet \(both ports\)
 * [x] Audio \(Headphone Jack Combo\)
-* [ ] HDMI/DP audio
+* [x] HDMI/DP audio
 * [x] USB A ports
 * [x] USB C ports
 * [ ] Thunderbolt 3 ports \(including hotplug\)
