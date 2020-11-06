@@ -37,7 +37,7 @@
 * [x] SIP, Gate Keeper, all OSX security features
 
 ## OS Version Tested
-- macOS Catalina 10.15.7 (19H2)
+- macOS Catalina 10.15.7 (19H2, 19H15)
 
 ## Credits
 - [Apple](https://www.apple.com) for macOS  
