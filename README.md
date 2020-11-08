@@ -15,15 +15,14 @@
 * [x] Multiple displays
 * [x] Ethernet \(both ports\)
 * [x] Audio \(Headphone Jack Combo\)
-* [x] HDMI/DP audio
+* [ ] HDMI/DP audio
 * [x] USB A ports
 * [x] USB C ports
-* [ ] Thunderbolt 3 ports \(including hotplug\)
-* [ ] Thunderbolt IP \(XDomain, internet sharing\)
+* [x] Thunderbolt 3 ports
 * [ ] SD card slot
 * [x] NVMe/SATA SSD
 * [x] CPU power management
-* [x] Sleep/Resume
+* [x] Shutdown/Sleep/Resume
 * [x] Wifi/BT \(using Apple Wifi card\)
 * [x] Secure Boot \(with High Security\)
 
