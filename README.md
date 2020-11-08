@@ -20,10 +20,10 @@
 * [x] USB C ports
 * [x] Thunderbolt 3 ports
 * [ ] SD card slot
-* [x] NVMe/SATA SSD
+* [x] SATA SSD
 * [x] CPU power management
-* [x] Shutdown/Sleep/Resume
-* [x] Wifi/BT \(using Apple Wifi card\)
+* [x] Shutdown/Sleep/Wake
+* [x] Wifi/BT \(using Apple Wifi card/Airport Adapter M2 slot\)
 * [x] Secure Boot \(with High Security\)
 
 ## Working Software
