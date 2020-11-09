@@ -21,12 +21,12 @@
 * [x] GPU acceleration
 * [x] Video encoder/decoder hardware
 * [x] Multiple displays
-* [x] Ethernet \(both ports\)
-* [x] Audio \(Headphone Jack Combo\)
+* [x] Ethernet
+* [x] Audio \(Headphone\)
 * [ ] HDMI/DP audio
 * [x] USB A ports
 * [x] USB C ports
-* [x] Thunderbolt 3 ports
+* [x] Thunderbolt 3 port
 * [ ] SD card slot
 * [x] SATA SSD
 * [x] CPU power management
@@ -36,7 +36,7 @@
 
 ## Working Software
 
-* [x] Installer, App Store, app updates, OS updates
+* [x] Installer, App Store, App updates, OS updates
 * [x] iMessage, iCloud, Siri, iTunes, other services
 * [x] FileVault2, APFS, Time Machine, SSD TRIM
 * [x] Metal, GPU accelerated applications, hardware video encoder/decoder
