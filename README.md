@@ -1,15 +1,20 @@
 # Hackintosh NUC10i5FNH OpenCore
 
-## OpenCore Version
-- [0.6.3](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.6.3)
-
 ## System Specification
 - Processor: Intel® Core™ i5-10210U Processor (6M Cache, up to 4.20 GHz)
 - Memory: 16 GB 2667 MHz DDR4
 - Graphics: Intel UHD Graphics 630 1536 MB
 
+## OpenCore Version
+- [0.6.3](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.6.3)
+
 ## Attention
 - Please generate SMBios and add to conflig.plist (Using https://github.com/corpnewt/GenSMBIOS)
+
+## Bios Settings
+- Secure Boot: Disabled
+- Wifi: Disabled
+- Bluetooth: Disabled
 
 ## Working Hardware
 
