@@ -74,7 +74,7 @@
 				<key>Comment</key>
 				<string>Thunderbolt 3</string>
 				<key>Path</key>
-				<string>SSDT-NUC10-THUNDERBOLT-DRENAN-TST-3.aml</string>
+				<string>SSDT-TITAN-THUNDERBOLT.aml</string>
 				<key>Enabled</key>
 				<true/>
 			</dict>
