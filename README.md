@@ -4,6 +4,8 @@
 - Processor: Intel® Core™ i5-10210U Processor (6M Cache, up to 4.20 GHz)
 - Memory: 16 GB 2667 MHz DDR4
 - Graphics: Intel UHD Graphics 630 1536 MB
+- Hard Disk: SSD 2.5 SATA GAINWARD YA0240A 240GB
+- Wifi: BCM94360CS2 - Airpot Adapter M2 Slot
 
 ## OpenCore Version
 - [0.6.3](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.6.3)
