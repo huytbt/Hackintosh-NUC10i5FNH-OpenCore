@@ -45,6 +45,7 @@
 * [x] Handoff, Continuity, Universal Clipboard, Apple Watch unlock \(using Apple Wifi card\)
 * [x] SIP, Gate Keeper, all OSX security features
 * [x] Schedule Start up or Wake, Sleep
+* [x] Update macOS directly from Apple
 
 ## OS Version Tested
 - macOS Catalina 10.15.7 (19H2, 19H15)
