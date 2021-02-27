@@ -8,7 +8,7 @@
 - Wifi/BT: BCM94360CS2 / Airpot Adapter M2 Slot
 
 ## OpenCore Version
-- [0.6.3](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.6.3)
+- [0.6.6](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.6.6)
 
 ## Attention
 - Please generate SMBios and add to conflig.plist (Using https://github.com/corpnewt/GenSMBIOS)
@@ -50,6 +50,7 @@
 ## OS Version Tested
 - macOS Catalina 10.15.7 (19H2, 19H15)
 - macOS Big Sur 11.0.1 (20B29)
+- macOS Big Sur 11.2.1 (20D74)
 
 ## Credits
 - [Apple](https://www.apple.com) for macOS  
