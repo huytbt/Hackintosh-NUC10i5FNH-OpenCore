@@ -51,6 +51,7 @@
 - macOS Catalina 10.15.7 (19H2, 19H15)
 - macOS Big Sur 11.0.1 (20B29)
 - macOS Big Sur 11.2.1 (20D74)
+- macOS Big Sur 11.2.2 (20D80)
 
 ## Credits
 - [Apple](https://www.apple.com) for macOS  
